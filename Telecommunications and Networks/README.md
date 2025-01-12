@@ -2,7 +2,7 @@
 Biến đổi biên độ (AM) là một phương pháp điều chế tín hiệu, trong đó biên độ của sóng mang được thay đổi theo tín hiệu thông tin. Điều này có nghĩa là sóng mang có tần số không thay đổi, nhưng biên độ của nó sẽ thay đổi tỷ lệ với cường độ tín hiệu thông tin. AM thường được sử dụng trong các hệ thống truyền thanh (radio AM) và một số loại liên lạc viễn thông. Một đặc điểm quan trọng của AM là có thể chịu đựng được sự suy giảm của tín hiệu khi truyền đi xa, nhưng chất lượng âm thanh có thể giảm khi nhiễu hoặc điều kiện tín hiệu không tốt.
 
 #### Hình minh họa:
-![AM Signal](https://github.com/tuan22th4/HCMUS-ET-PRJ/blob/main/Telecommunications%20and%20Networks/_DEMO/AM%20(0).png)
+![AM Signal](https://github.com/DinhThien-pt/HCMUS-ET-PRJ/blob/main/Telecommunications%20and%20Networks/Demo/AM%20(0).png)
 
 ---
 
@@ -10,7 +10,7 @@ Biến đổi biên độ (AM) là một phương pháp điều chế tín hiệ
 Biến đổi tần số (FM) là một phương pháp điều chế trong đó tần số của sóng mang thay đổi theo tín hiệu thông tin. Thay vì thay đổi biên độ như trong AM, FM thay đổi tần số của sóng mang trong suốt quá trình truyền tải tín hiệu. FM có khả năng chống nhiễu tốt hơn so với AM và thường được sử dụng trong các hệ thống phát thanh, đặc biệt là truyền thanh FM, nơi yêu cầu chất lượng âm thanh cao hơn và khả năng bảo vệ tín hiệu khỏi sự can thiệp của nhiễu.
 
 #### Hình minh họa:
-![FM Signal](https://github.com/tuan22th4/HCMUS-ET-PRJ/blob/main/Telecommunications%20and%20Networks/_DEMO/FM.PNG)
+![FM Signal](https://github.com/DinhThien-pt/HCMUS-ET-PRJ/blob/main/Telecommunications%20and%20Networks/Demo/FM.PNG)
 
 ---
 
@@ -22,7 +22,7 @@ Biến đổi tần số (FM) là một phương pháp điều chế trong đó 
 Kết hợp giữa TDM và PCM cho phép truyền tải đồng thời nhiều tín hiệu số hóa qua một kênh duy nhất, rất hữu ích trong các ứng dụng như điện thoại di động và các hệ thống truyền thông đa kênh.
 
 #### Hình minh họa:
-![TDM PCM](https://github.com/tuan22th4/HCMUS-ET-PRJ/blob/main/Telecommunications%20and%20Networks/_DEMO/PCM-TDM.PNG)
+![TDM PCM](https://github.com/DinhThien-pt/HCMUS-ET-PRJ/blob/main/Telecommunications%20and%20Networks/Demo/PCM-TDM.PNG)
 
 ---
 
@@ -32,4 +32,4 @@ Kết hợp giữa TDM và PCM cho phép truyền tải đồng thời nhiều t
 Huffman encoding là một thuật toán mã hóa không đối xứng và có thể tạo ra cây Huffman để xác định chiều dài mã hóa cho mỗi ký tự dựa trên tần suất xuất hiện của chúng.
 
 #### Hình minh họa:
-![Huffman Encoding](https://github.com/tuan22th4/HCMUS-ET-PRJ/blob/main/Telecommunications%20and%20Networks/_DEMO/Huffman.PNG)
+![Huffman Encoding](https://github.com/DinhThien-pt/HCMUS-ET-PRJ/blob/main/Telecommunications%20and%20Networks/Demo/Huffman.PNG)
